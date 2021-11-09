@@ -1,0 +1,30 @@
+/* EXERCISE 1
+            For every Album displayed in the page we'd like to have a consistent appearence.
+            Create the template of an Album component (you can start from a bootstrap one or create your own)
+            You will use it to display every album in the page.
+            
+            You should have consistency in these elements:
+            - The album card
+            - The album cover
+            - The album title
+            - The album group / singer / dj
+            - The album genre
+            - The album duration
+            - etc
+
+            create CSS rules to style them if needed
+            ...to make sure every Album component looks the same.
+         */
+
+.album-card {
+}
+.album-cover {
+}
+.album-title {
+}
+.album-group {
+}
+.album-genre {
+}
+.album-duration {
+}
